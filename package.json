@@ -1,7 +1,7 @@
 {
   "name": "aswap-sdk",
   "license": "MIT",
-  "version": "1.0.1-beta",
+  "version": "1.0.2-beta",
   "description": "🛠 An SDK for building applications on top of ASwap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
